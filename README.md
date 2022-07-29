@@ -16,6 +16,14 @@
   <img align="center" alt="Gabe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Gabe-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95987252/181818594-1e750645-edd1-4490-a59f-0142df0cf718.png">
+</div>
+ 
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/g_bifon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielbifon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-bifon-de-souza-625a1b213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/gabrielBsouza/gabrielBsouza/blob/output/github-contribution-grid-snake.svg)
   
