@@ -16,6 +16,7 @@
   <img align="center" alt="Gabe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Gabe-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95987252/181818594-1e750645-edd1-4490-a59f-0142df0cf718.png">
+  
+  ![Snake animation](https://github.com/gabrielBsouza/gabrielBsouza/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-  
-  
